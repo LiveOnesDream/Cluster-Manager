@@ -1,1 +1,2 @@
-# Cluster-Manager 获取CDH 图表数据 接口
+### Cluster-Manager  仪表数据
+### yarn-application 运行信息 
